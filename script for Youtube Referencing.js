@@ -1,4 +1,5 @@
 // Youtube Roehampton Reference Generator
+// paste in devtools console
 El = {
     nameOfPersonPostingVideo: document.querySelector("#text > a"),
     yearVideoPosted: document.querySelector("#date > yt-formatted-string"),
